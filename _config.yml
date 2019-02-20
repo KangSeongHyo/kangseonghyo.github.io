@@ -12,7 +12,7 @@ url: "https://kangseonghyo.github.io/"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: 
+baseurl:
 
 # Google tracking id
 
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "공사중입니다."
   - text: "빨리 만들어야지"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/pic.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -131,11 +131,18 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+
+
+  - image: "/img/timeline/ktnet2.png"
+    date: "2018.11.19 - 2019.02.18"
+    description: "한국무역정보통신 인턴"
+
+  - image: "/img/timeline/NBP.png"
+    date: "2018.05.23 - 2018.07.06"
+    description: "네이버 비즈니스 플랫폼 인턴"
+
   - image: "/img/timeline/sejong.png"
-    date: " 2012 ~ 2017"
+    date: " 2012.03.01 ~ 2018.08.17"
     description: "세종대학교 정보통신공학과"
 
 # First image of the Timeline
