@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "공사중입니다."
-  - text: "빨리 만들어야지"
+  - text: "포트폴리오 페이지입니다."
+  - text: "방문해주셔서 감사합니다."
 
 me-img: "/img/pic.png"
 
@@ -133,15 +133,11 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "abc9023@naver.com"
-
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "tistory"
-    url: "http://willbfine.tistory.com/"
   - title: "github"
     url: "https://github.com/KangSeongHyo?tab=repositories"
   - title: "rss"
