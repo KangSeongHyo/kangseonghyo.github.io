@@ -140,8 +140,6 @@ timeline-img: "/img/timeline/default.png"
 social:
   - title: "github"
     url: "https://github.com/KangSeongHyo?tab=repositories"
-  - title: "rss"
-    url: "/feed.xml"
 
 ############
 # 404 page #
