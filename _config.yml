@@ -115,7 +115,7 @@ events:
     date: "2020.1.2 - Present"
     description: "11번가 사원"
 
-  - image: "/img/timeline/ict.jpg"
+  - image: "/img/timeline/ict.png"
     date: "2019.07.01 - 2019.12.31"
     description: "한화시스템/ICT 사원"
 
