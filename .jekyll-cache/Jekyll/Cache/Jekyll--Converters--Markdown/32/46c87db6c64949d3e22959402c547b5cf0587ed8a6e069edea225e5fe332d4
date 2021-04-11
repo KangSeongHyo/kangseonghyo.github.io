@@ -1,9 +1,0 @@
-I"<p><img src="/capture/drawing.gif" alt="이미지" /></p>
-
-<p><strong>개발기간</strong> : 2021.01.14 ~ 2020.01.31 <br />
-<strong>소개</strong> : 랜덤하게 당첨자를 추첨하고 달력에 기록하는 서비스 입니다.<br />
-<strong>소감</strong> : Kubernetes를 Cloud 환경에서 만들어보고 서비스를 올려보면서 Kubernetes에 대한 이해와 Pod간의 통신에 대해 깊이있게 이해할 수 있었습니다.   <br />
-<strong>기술</strong> : <code class="language-plaintext highlighter-rouge">GCP Kubernetes</code> <code class="language-plaintext highlighter-rouge">Spring Boot</code> <code class="language-plaintext highlighter-rouge">JPA</code> <code class="language-plaintext highlighter-rouge">Postgresql</code> <code class="language-plaintext highlighter-rouge">Redis</code>  <br />
-<strong>Blog</strong> : 
-<strong>Github</strong> : <a href="https://github.com/KangSeongHyo/KTNET_InternProject">https://github.com/KangSeongHyo/KTNET_InternProject</a> (소스코드 비공개) <br /></p>
-:ET
