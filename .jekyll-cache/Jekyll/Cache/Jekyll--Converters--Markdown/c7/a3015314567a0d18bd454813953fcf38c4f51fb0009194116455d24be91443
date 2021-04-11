@@ -1,0 +1,11 @@
+I"A<p><img src="/capture/drawing.gif" alt="이미지" /></p>
+
+<p><strong>개발기간</strong> : 2021.01.14 ~ 2020.01.31 <br />
+<strong>소개</strong> : 랜덤하게 당첨자를 추첨하고 달력에 기록하는 서비스 입니다.<br />
+<strong>소감</strong> : Kubernetes를 Cloud 환경에서 구축하여 서비스를 올려보면서 Kubernetes에 대한 이해와<br /> 
+          
+컨테이너 기반의 서비스의 기본적인 인프라 구조에 대해 이해할 수 있었습니다. <br />
+<strong>기술</strong> : <code class="language-plaintext highlighter-rouge">GCP Kubernetes</code> <code class="language-plaintext highlighter-rouge">Spring Boot</code> <code class="language-plaintext highlighter-rouge">JPA</code> <code class="language-plaintext highlighter-rouge">Postgresql</code> <code class="language-plaintext highlighter-rouge">Redis</code>  <br />
+<strong>Blog1</strong> :  <a href="https://willbfine.tistory.com/category/%EC%8B%A4%EC%A0%84/Kubernetes">https://willbfine.tistory.com/category/실전/Kubernetes</a> <br />
+<strong>Github</strong> :</p>
+:ET

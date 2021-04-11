@@ -12,18 +12,6 @@ url: "https://kangseonghyo.github.io/"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl:
-
-# Google tracking id
-
-google-tracking-id: ""
-
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
-force-https: True
-
 #############
 # HTML Head #
 #############
@@ -55,15 +43,15 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "포트폴리오 페이지입니다."
   - text: "방문해주셔서 감사합니다."
+  - text: "포트폴리오 페이지입니다."
 
-me-img: "/img/pic.png"
+me-img: "/img/pic.jpg"
 
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
+color-browser: "#FFFFFF"
 apple-status-bar-style: "black"
 
 ################
@@ -81,31 +69,6 @@ icon-96p: "/img/web-app/icon-96p.png"
 icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 
-########
-# Blog #
-########
-
-enable-gesture-navigation: True
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
-
-disqus-shortname: "personal-jekyll-theme"
-
-syntax-highlight: True
-
 ############
 # Timeline #
 ############
@@ -113,11 +76,11 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/stlog.png"
     date: "2020.1.2 - Present"
-    description: "11번가 사원"
+    description: "11번가 여행플랫폼개발팀 "
 
   - image: "/img/timeline/ict.png"
     date: "2019.07.01 - 2019.12.31"
-    description: "한화시스템/ICT 사원"
+    description: "한화시스템/ICT EHR팀"
 
   - image: "/img/timeline/ktnet2.png"
     date: "2018.11.19 - 2019.02.18"
@@ -161,7 +124,7 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  Project: 'latest-post'
+  Career & Project : 'project'
   Timeline: 'timeline'
   Other: 'contact'
 

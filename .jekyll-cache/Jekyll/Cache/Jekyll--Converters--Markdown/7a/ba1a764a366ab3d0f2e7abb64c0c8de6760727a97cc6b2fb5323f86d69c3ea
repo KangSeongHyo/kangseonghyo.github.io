@@ -1,0 +1,10 @@
+I"�<p><img src="/capture/upc.png" alt="이미지" /></p>
+
+<p><strong>개발기간</strong> : 2018.11.21 ~ 2019.01.16 (한국무역정보통신) <br />
+<strong>역할</strong> : 관리자-접수 담당 &amp; 서버환경설정,관리 (5인 프로젝트) <br />
+<strong>소개</strong> : 기존 서비스의 기능 부재로 수작업으로 처리하는 부분을 해결하기 위해 새롭게 제작한 서비스입니다.<br />
+<strong>소감</strong> :
+  현업 프로세스를 이해하고 Client와의 인터뷰를 통해 필요한 기능들을 생각하여 개발했고 팀프로젝트            에서 협력이라는 부분을 배울 수 있었습니다. <br />
+<strong>기술</strong> : <code class="language-plaintext highlighter-rouge">Spring</code> <code class="language-plaintext highlighter-rouge">Oracle</code> <code class="language-plaintext highlighter-rouge">Mybatis</code> <code class="language-plaintext highlighter-rouge">BootStrap</code> <code class="language-plaintext highlighter-rouge">SVN</code> <code class="language-plaintext highlighter-rouge">Vagrant</code> <code class="language-plaintext highlighter-rouge">Nginx</code> <code class="language-plaintext highlighter-rouge">Jenkins</code> <code class="language-plaintext highlighter-rouge">JUnit</code> <br />
+<strong>Github</strong> : <a href="https://github.com/KangSeongHyo/KTNET_InternProject">https://github.com/KangSeongHyo/KTNET_InternProject</a> (소스코드 비공개) <br /></p>
+:ET

@@ -1,0 +1,26 @@
+
+
+<section id="{{ page.section-type }}" class="container content-section text-center">
+  {{ page.content | markdownify }}
+
+  {% for post in site.posts %}
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        <h2>
+          <small>
+            {{ post.category }}
+          </small>
+          <strong> {{post.title}}</strong>
+        </h2>
+
+        <section class="text-justify" >
+          {{ post.content | markdownify }}
+        </section>
+      </div>
+    </div>
+    <br/>
+    <br/>
+    {% endfor %}
+
+</section>
+

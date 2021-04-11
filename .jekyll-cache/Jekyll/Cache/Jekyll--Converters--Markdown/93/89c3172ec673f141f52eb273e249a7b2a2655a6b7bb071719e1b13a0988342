@@ -1,0 +1,10 @@
+I"�<p><img src="/capture/drawing.gif" alt="이미지" /></p>
+
+<p><strong>개발기간</strong> : 2021.01.14 ~ 2020.01.31 <br />
+<strong>소개</strong> : Kubernetes와 JPA를 공부하기 위해 만든 추첨하기 토이프로젝트 입니다.<br />
+<strong>소감</strong> :
+   Kubernetes를 Cloud 환경에서 구성해보고 Pod들              에서 협력이라는 부분을 배울 수 있었습니다. <br />
+<strong>기술</strong> : <code class="language-plaintext highlighter-rouge">Kubernetes</code> <code class="language-plaintext highlighter-rouge">GCP</code> <code class="language-plaintext highlighter-rouge">Spring Boot</code> <code class="language-plaintext highlighter-rouge">JPA</code> <code class="language-plaintext highlighter-rouge">Redis</code>  <br />
+<strong>Blog</strong> : 
+<strong>Github</strong> : <a href="https://github.com/KangSeongHyo/KTNET_InternProject">https://github.com/KangSeongHyo/KTNET_InternProject</a> (소스코드 비공개) <br /></p>
+:ET
